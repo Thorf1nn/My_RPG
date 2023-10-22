@@ -13,7 +13,7 @@ My_RPG is the last project in CSFML of the year.
 
 The goal of this project is to code a role playing game (rpg) in C with CSFML like The Witcher or Skyrim
 
-Made by Loic Tisseyre, Enzo Daumalle, Luca Orelli, Lysandra Manuguerra
+Made by Loic Tisseyre, Enzo Daumalle, Luca Orelli
 
 ## Usage 🕹
 
